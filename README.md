@@ -2,7 +2,7 @@
 
 Eu sou estudante, faço faculdade de Engenharia de Computação (1° semestre) apaixonado por tecnologia. Atualmente estou focado em aprender Liguagem de programação e construir projetos que resolvam problemas reais.
 
-- 🔭 estou iniciando em programação. 
+- 🔭 Estou iniciando em programação. 
 - 🌱 Aprendendo no momento: (Engenharia da Computação) (Python)
 - 📫 Contate-me no email: kperschh@gmail.com
 
